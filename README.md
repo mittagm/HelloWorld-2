@@ -1,5 +1,5 @@
 **Name**: Nate Dunkel
 
-**Assignment Name**: Assignment 1A: Create Glitch Account and Page
+**Assignment Name**: Assignment 2A: Github
 
-**Date**: 8/31/2020
+**Date**: 9/7/2020
